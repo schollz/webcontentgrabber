@@ -55,7 +55,7 @@ For example, if you run the builtin context_settings.json on a recipe website, l
 
 From that, the actual text is extracted is:
 
-```bash
+```
 ------------------------------
 directions
 ------------------------------
